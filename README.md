@@ -31,4 +31,4 @@ Download Name Spark AI now and ignite your naming game!
 
 ## 📸 App Interface
 
-![App Screenshot](./assets/screenshot.jpg)
+![App Screenshot](./assets.xcassets/screenshot.jpg.imageset)
